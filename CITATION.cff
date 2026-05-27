@@ -1,0 +1,39 @@
+cff-version: 1.2.0
+message: "If you use this software or data, please cite the article below."
+title: "Epigenetic Age Acceleration as a Modifiable Public Health Target — Analytical Pipeline and Data"
+type: software
+authors:
+  - family-names: Aliberti
+    given-names: Silvana Mirella
+    orcid: ""
+    affiliation: "University of Salerno; Dresden International University"
+    email: sialiberti@unisa.it
+  - family-names: Marigliano
+    given-names: Piergiorgio
+    orcid: ""
+    affiliation: "eCampus University"
+    email: piergiorgio.marigliano@uniecampus.it
+  - family-names: Capunzo
+    given-names: Mario
+    affiliation: "University of Salerno"
+    email: mcapunzo@unisa.it
+version: "1.0.0"
+date-released: "2026-05-27"
+license: CC-BY-4.0
+repository-code: "https://github.com/OWNER/eaa-meta-analysis"
+preferred-citation:
+  type: article
+  authors:
+    - family-names: Aliberti
+      given-names: Silvana Mirella
+    - family-names: Marigliano
+      given-names: Piergiorgio
+    - family-names: Capunzo
+      given-names: Mario
+  title: "Epigenetic Age Acceleration as a Modifiable Public Health Target: A Systematic Review and Meta-Analysis of Environmental, Behavioral, and Social Determinants with Development of MEAB Index"
+  journal: "International Journal of Molecular Sciences"
+  volume: 27
+  year: 2026
+  doi: "10.3390/xxxxx"
+  publisher:
+    name: MDPI

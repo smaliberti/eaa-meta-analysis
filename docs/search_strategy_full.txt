@@ -1,0 +1,46 @@
+Full Electronic Search Strategy
+================================
+Search date: April 7, 2026
+No language or geographical restrictions (English-language articles only)
+No search updates after April 7, 2026
+
+================================================================================
+PubMed/MEDLINE (n = 159 records)
+================================================================================
+
+("epigenetic clock" [Title/Abstract] OR "DNA methylation age" [Title/Abstract]
+OR "epigenetic age" [Title/Abstract] OR "biological age" [Title/Abstract]
+OR "epigenetic age acceleration" [Title/Abstract] OR "age acceleration"
+[Title/Abstract] OR Horvath [Title/Abstract] OR Hannum [Title/Abstract]
+OR PhenoAge [Title/Abstract] OR GrimAge [Title/Abstract] OR DunedinPoAm
+[Title/Abstract] OR DunedinPACE [Title/Abstract])
+
+AND
+
+(diet [Title/Abstract] OR nutrition [Title/Abstract] OR "physical activity"
+[Title/Abstract] OR exercise [Title/Abstract] OR smoking [Title/Abstract]
+OR alcohol [Title/Abstract] OR sleep [Title/Abstract] OR stress
+[Title/Abstract] OR "air pollution" [Title/Abstract] OR "environmental
+exposure*" [Title/Abstract] OR "socioeconomic status" [Title/Abstract])
+
+AND
+
+(association [Title/Abstract] OR regression [Title/Abstract] OR
+observational [Title/Abstract] OR cohort [Title/Abstract] OR
+"cross-sectional" [Title/Abstract] OR "case-control" [Title/Abstract]
+OR "randomized controlled trial" [Title/Abstract])
+
+================================================================================
+Scopus (n = 150 records)
+================================================================================
+
+Adapted from PubMed strategy using Scopus field codes (TITLE-ABS-KEY).
+Same three conceptual domains combined with AND/OR operators.
+
+================================================================================
+Additional sources
+================================================================================
+
+- Europe PMC: searched to enhance retrieval of open-access publications
+- Manual screening of reference lists of included studies and relevant reviews
+- Forward citation tracking via Google Scholar
