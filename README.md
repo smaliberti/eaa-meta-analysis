@@ -20,7 +20,11 @@ The study synthesizes **83 studies** (118 exposure–clock associations) across 
 A novel **Modifiable Epigenetic Aging Burden Index (MEAB-Index)** is introduced to estimate the cumulative preventable burden of biological aging.
 
 ---
+## Data provenance
 
+The study design, conceptualization, and manuscript preparation were led by Silvana Mirella Aliberti. Methodology was developed jointly by Silvana Mirella Aliberti and Piergiorgio Marigliano. Software development, formal analysis, investigation, and visualization were primarily performed by Piergiorgio Marigliano. Data curation, validation, and resource management were conducted collaboratively by Silvana Mirella Aliberti, Piergiorgio Marigliano, and Mario Capunzo. Overall supervision and project administration were provided by Silvana Mirella Aliberti, with additional supervisory support from Mario Capunzo.
+
+---
 ## Key Findings
 
 | Metric | Estimate | 95% CI | Interpretation |
